@@ -1,3 +1,5 @@
+## Overview
+
 This is an in-depth introduction to Deep Learning, from linear regression with gradient descent to convolutional neural nets.
 
 The code files here are mainly labs and assignments I submitted as part of the course in Deep Learning at Munster Technological University by Dr. Ted Scully.
@@ -21,3 +23,9 @@ I believe this is a great intro to Deep Learning for anyone who wants to get sta
 - Fine tuning
 - Batch normalization
 - Intro to adversarial machine learning
+
+## Reports
+
+![Report-1](img/dnn_img_report.jpg)
+
+![Report-2](img/conv_img_report.jpg)
